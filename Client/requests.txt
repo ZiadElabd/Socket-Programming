@@ -1,0 +1,8 @@
+POST /ziad.txt localhost 8080\r\n
+GET /image.jpg localhost 8080\r\n
+GET /index.html localhost 8080\r\n
+\r\n
+POST /ziad.txt localhost 8081\r\n
+GET /index.html 197.32.4.95 8080\r\n
+POST /ziad.txt 197.32.4.95 8080\r\n
+\r\n
